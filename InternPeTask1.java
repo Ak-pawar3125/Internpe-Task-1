@@ -48,7 +48,7 @@ public class InternPeTask1 {
 
                     if (userGuess == randNum) {
                         System.out.println("Yahooo! You guessed the number successfully.");
-                        System.out.println("It only took " + triesCount + " guesses!");
+                        System.out.println("It only took " + triesCount + " " + "guesses!");
                         System.out.println("Would you like to play again? Type Yes or No:");
                         playGame = sc.next().toLowerCase();
                     } else if (userGuess < randNum) {
