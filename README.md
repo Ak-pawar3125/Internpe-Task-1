@@ -17,8 +17,8 @@ This project is a simple Number Guessing Game implemented in Java as part of my 
 -If the guess is correct, it congratulates the user and displays the number of attempts taken.
 <br>
 -The user is then given an option to play again or exit the game.
-<br>
-# Features:
+
+# features :
 <br>
 -Random number generation using java.util.Random.
 <br>
